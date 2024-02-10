@@ -1,0 +1,13 @@
+.button {
+	-fx-background-color:#cbccc0
+}
+.button:hover{
+	-fx-background-color:#9e9682
+	
+}
+.functionalButton{
+	-fx-background-color:#Ce9682
+}
+.enterButton {
+	-fx-background-color:#73a160
+}
